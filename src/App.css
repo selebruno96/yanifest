@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  background: url("https://res.cloudinary.com/ds6avb9us/image/upload/v1679062582/YANIFEST_3_cinsux.jpg");
+  background-repeat:no-repeat;
+  background-position:center;
+  
+}
+
+.page{
+  
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  justify-content:center ;
+  align-items: center;
+}
+
+.animated-paragraph{
+  color: white;
+}
+
+.yani {
+  font-family: "Roboto Slab", serif;
+  font-size:3rem;
+
+}
+
+
+.year{
+  text-align: end;
+  font-size:3rem;
+  position: absolute;
+  bottom: 13rem;
+  right: 9rem;
+  font-family: cursive;
+  color: rgba(227, 214, 203, 0.476);
+}
+
+.fest {
+  font-family: 'Mr De Haviland', cursive;
+  font-size:7rem;
+  font-weight: 100;
+}
+
+.yanifest{
+  display: flex;
+  flex-direction: row;
+  align-items:baseline;
+  justify-content: center;
+  position:relative;
+  padding: 2rem;
+  color: rgb(255, 255, 255);
+  
+  padding: 10rem
+}
+
+
